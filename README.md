@@ -12,4 +12,5 @@ This repository contains the code for building a movie recommendation system and
 
 3. Web App with Streamlit: The recommendation system is deployed as a user-friendly web app using Streamlit, allowing users to interactively receive movie recommendations.
 
+![image](https://github.com/dhanush-github/Movie-Recommender-System/assets/82599768/c30b8484-8c0e-4cec-92b4-c75b064f172d)
 
