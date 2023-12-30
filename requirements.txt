@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+nltk
+streamlit
+gensim
+matplotlib
+seaborn
+numpy
+beautifulsoup4
+requests
